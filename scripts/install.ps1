@@ -2,9 +2,9 @@
 # irm https://install.silly.enterprises | iex
 # ----------------------------------------------
 
-param(
-    [string]$Args = "--debug"
-)
+if (-not $Args) {
+    $Args = "--debug"
+}
 
 Write-Host "🐧 Silly Enterprises™ Windows Installer"
 Write-Host "---"
