@@ -1,0 +1,57 @@
+Package: silly-base-config
+Version: 0.1
+Architecture: all
+Maintainer: The Silly Enterprises Team <team@silly.enterprises>
+Depends: vim, bash-completion, curl, htop, jq, moreutils, pwgen, tree, unzip, traceroute, python3, python3-pip, python3-venv, python-is-python3, git
+Filename: apt/pool/main/s/silly-base-config/silly-base-config_0.1_all.deb
+Size: 2294
+MD5sum: 32d3f55bc204230a3bfbf7a466f79416
+SHA1: 64fd95b5619e54ea9023d3b677c3464136c8b5f2
+SHA256: 7c23718d6eda5da257d121d124b6b152666d8e40a589da969057839bf4af71d4
+Section: base
+Priority: optional
+Description: Base configuration for silly Ubuntu setups
+ Includes MOTD banner, bash aliases, and common tools.
+
+Package: silly-extra-silly
+Version: 0.1
+Architecture: all
+Maintainer: The Silly Enterprises Team <team@silly.enterprises>
+Depends: cowsay, fortune
+Filename: apt/pool/main/s/silly-extra-silly/silly-extra-silly_0.1_all.deb
+Size: 738
+MD5sum: 5d6ac8948d777dfe40f8b1bb3b082bc9
+SHA1: 8d313012e5203c6076a23615031901a3ca0af59e
+SHA256: 2687a2c7b1599271228716d070458069a3398f5274050c30778ecac6fe7fa606
+Section: fun
+Priority: optional
+Description: Extra silly package for Mari's favorite fun tools.
+
+Package: silly-full
+Version: 0.1
+Architecture: all
+Maintainer: The Silly Enterprises Team <team@silly.enterprises>
+Depends: silly-base-config, silly-small-demo
+Filename: apt/pool/main/s/silly-full/silly-full_0.1_all.deb
+Size: 688
+MD5sum: 6db1c7f9e6f525138f5370f7795f9933
+SHA1: 078ef70f6ccdf40d2879a1b9d5466115fe609ba3
+SHA256: 6e094797db8cf38c6c1096b2bc4f418933d07a281210be58e20985d0e4055400
+Section: metapackages
+Priority: optional
+Description: Meta-package for a full silly setup.
+
+Package: silly-small-demo
+Version: 0.1
+Architecture: all
+Maintainer: The Silly Enterprises Team <team@silly.enterprises>
+Depends: figlet
+Filename: apt/pool/main/s/silly-small-demo/silly-small-demo_0.1_all.deb
+Size: 764
+MD5sum: 3603822fa7aaf67b0c324562ed1d64de
+SHA1: 0d37fc5a6b3cf5344454c6775fe1a80026e1e10d
+SHA256: 58a3c98b0d73f937f7cca9648cc1134f9df3829b593c5d05a4a38f39aaf96fd8
+Section: misc
+Priority: optional
+Description: A small demo package that shows a startup banner with figlet.
+

@@ -4,27 +4,31 @@ Hash: SHA256
 Architectures: amd64
 Codename: stable
 Components: main
-Date: Sat, 05 Apr 2025 21:27:58 +0000
+Date: Sat, 05 Apr 2025 21:37:19 +0000
 Description: Silly Enterprises APT Repository
 Label: Silly APT
 Origin: Silly Enterprises
 Suite: stable
 MD5Sum:
- 9bc1892c873febf4eaac125959e28738              196 Release
- 0ce1a40a475811723f70a240e1d61303              925 main/binary-amd64/Packages.gz
+ 2a7419ad07f3455e7003776b9315290c              196 Release
+ 48dccde228b2525c00e48d2322429a5a             2123 main/binary-amd64/Packages
+ fbf09f032a6d21045add16a8c49b350a              925 main/binary-amd64/Packages.gz
 SHA1:
- 80d017da0d440b6026409f9b8033bbfc426203a7              196 Release
- cf21cef3fdfed089bd8f2c5f0e2744e51d440641              925 main/binary-amd64/Packages.gz
+ 4616acb831333f5f0256de4b2f10bb8937613661              196 Release
+ 05878398da1ebde0bbdfc39de17dcf06db906636             2123 main/binary-amd64/Packages
+ bae76e3620150e2e3292ca798dcbfa7a49a190f9              925 main/binary-amd64/Packages.gz
 SHA256:
- aaf2c4b5ec9837b77ff087991abfdcd4892da92ff1a5828d3c35a512c7aca675              196 Release
- 389087ad53a9d3353c319727573888b5fef3aefdceeb5936c9e15862b4c24cdb              925 main/binary-amd64/Packages.gz
+ 0529d3b88dfea782da0bd3f00d1717e55bd85dba3dae95ae245b1a25974ea041              196 Release
+ 5af137966364512b40566188dcd4474a86e29e52e02a45650eef75f9d36e1b9f             2123 main/binary-amd64/Packages
+ df84a557ded5fab7ebaef34cc3aa2412c661444dcf48e5cd0ecc08299a738a55              925 main/binary-amd64/Packages.gz
 SHA512:
- 446abfee4992d17aa5a2bb9d3513c97405cdcf047a324aac6287637344bf70f77eca4aa220660a4ea9505e42e82c4bb3436faa7409778ec436a9ee41b2051870              196 Release
- 64dcd39553a6f1bd9682f9c64e95c37be0c07e6e09bbed9b3f32806502cc39d7dfeefa3671f501cd350365df9704185fde5b559485bd8ec8bdc32bb9307e212a              925 main/binary-amd64/Packages.gz
+ 9566cc5d3cbd1adedc397b4a8947de1449d80e9d0002d0b16ec5a5c79eaee0c9bd0ef1ec75f6167fb268c0223cd0f1838af22ba2fb9f594fba67f04cfd478d43              196 Release
+ 03a38a152c9fa21849fe6a99c913ac5bda8a6417a2e7604d3aa17a9688f8c0c1e8bcf2b0756fdfff5d241385d3346c3324af915cfc51367be57ad19b2c4cb49f             2123 main/binary-amd64/Packages
+ 4fb9874034bc380ba0bd99461a5a43929a4dc23a08b841e4378f2aacf00b16bdfbef66da722e6074dd77f2f6476c6df3e2d390a43f39f69598b87fae5227813d              925 main/binary-amd64/Packages.gz
 -----BEGIN PGP SIGNATURE-----
 
-iIwEARYIADQWIQRGecPag6ZFx/2KhO+V1mVtjScyowUCZ/GgXxYcYXB0QHNpbGx5
-LmVudGVycHJpc2VzAAoJEJXWZW2NJzKjdG4BAIO6W2lyJrfNHHf5dUQRshCTRuxU
-MKzf0JssGuhHFehxAQDbIFteOrJlQZpbGBWddATl54kMd29WVrWcJCj8NKabDw==
-=0c3q
+iIwEARYIADQWIQRGecPag6ZFx/2KhO+V1mVtjScyowUCZ/GikBYcYXB0QHNpbGx5
+LmVudGVycHJpc2VzAAoJEJXWZW2NJzKjcTwA/j8GVOsjvK7LdtRBb0c7dyh7+FqT
+Rlip7YfgLW578wVYAQDnQ5sdbNBfnt7AZyPzNYOr3g+NMPbEboTCzxx4ZRmXAw==
+=1KLC
 -----END PGP SIGNATURE-----
