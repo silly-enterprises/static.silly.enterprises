@@ -1,0 +1,17 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+Origin: Silly Enterprises
+Label: Silly APT
+Suite: stable
+Codename: stable
+Architectures: amd64
+Components: main
+Description: Silly Enterprises APT Repository
+-----BEGIN PGP SIGNATURE-----
+
+iIwEARYIADQWIQRGecPag6ZFx/2KhO+V1mVtjScyowUCZ/GZERYcYXB0QHNpbGx5
+LmVudGVycHJpc2VzAAoJEJXWZW2NJzKj4H4BAO+GanKpdhz7SclQbrtnKYneDuBX
+l8rInd9SKX4NH5DMAQCCRspayO0/a1hEcIkQkDaGS/ssbNJLrx7Aq9+BUkIfCg==
+=T/6+
+-----END PGP SIGNATURE-----
