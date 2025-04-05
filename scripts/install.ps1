@@ -1,5 +1,9 @@
+# === Silly Enterprises™ Installer ===
+# irm https://install.silly.enterprises | iex
+# ----------------------------------------------
+
 param(
-    [string]$Args = ""
+    [string]$Args = "--debug"
 )
 
 Write-Host "🐧 Silly Enterprises™ Windows Installer"
@@ -12,7 +16,7 @@ if (-not (Get-Command wsl.exe -ErrorAction SilentlyContinue)) {
     exit 1
 }
 
-Write-Host "Launching install script in WSL..."
+Write-Host "Launching install script in WSL... (args: $Args)"
 
 try {
     wsl bash -c "curl -fsSL https://install.silly.enterprises | bash -s -- $Args"
