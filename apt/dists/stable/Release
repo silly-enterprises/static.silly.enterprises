@@ -1,13 +1,20 @@
-Date: Sat, 05 Apr 2025 21:20:46 +0000
+Architectures: amd64
+Codename: stable
+Components: main
+Date: Sat, 05 Apr 2025 21:27:58 +0000
+Description: Silly Enterprises APT Repository
+Label: Silly APT
+Origin: Silly Enterprises
+Suite: stable
 MD5Sum:
- f349ab0ac4eab865b71fe294bb800763               38 Release
- 489e3793b16b6c08bcb62990c65745f6              925 main/binary-amd64/Packages.gz
+ 9bc1892c873febf4eaac125959e28738              196 Release
+ 0ce1a40a475811723f70a240e1d61303              925 main/binary-amd64/Packages.gz
 SHA1:
- ddc25f33f429042d38a2f63ebdeb9fb2b68e7faf               38 Release
- 00ce9f30055fad7974c4a5550c994b79e64cb7cb              925 main/binary-amd64/Packages.gz
+ 80d017da0d440b6026409f9b8033bbfc426203a7              196 Release
+ cf21cef3fdfed089bd8f2c5f0e2744e51d440641              925 main/binary-amd64/Packages.gz
 SHA256:
- 537cb8a6fd5391a7bda3a93e8b4d9cd1751e17341a0b08b1958659095e15be91               38 Release
- 036bb88bf577f534ea65c2d9c5f47e4e485c254912550314b297b2eba78ea82b              925 main/binary-amd64/Packages.gz
+ aaf2c4b5ec9837b77ff087991abfdcd4892da92ff1a5828d3c35a512c7aca675              196 Release
+ 389087ad53a9d3353c319727573888b5fef3aefdceeb5936c9e15862b4c24cdb              925 main/binary-amd64/Packages.gz
 SHA512:
- 6c6d7686d40fc2e466538c8756de270846eb1a00a634941ac99b8817bf2fda818417ae137c588e95ad95e06f834489e2744a5e30419eed7d42be8416d5ca11f3               38 Release
- 2131887766e67f654f00ad16f6049226925296c6c4fd3eb10500943dbde3821d07c94fc5c7ebcb39bd33c3cd03d751d9eaf457b09501323337d2692742576fa4              925 main/binary-amd64/Packages.gz
+ 446abfee4992d17aa5a2bb9d3513c97405cdcf047a324aac6287637344bf70f77eca4aa220660a4ea9505e42e82c4bb3436faa7409778ec436a9ee41b2051870              196 Release
+ 64dcd39553a6f1bd9682f9c64e95c37be0c07e6e09bbed9b3f32806502cc39d7dfeefa3671f501cd350365df9704185fde5b559485bd8ec8bdc32bb9307e212a              925 main/binary-amd64/Packages.gz
