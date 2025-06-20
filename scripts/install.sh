@@ -141,7 +141,7 @@ main() {
       ;;
   esac
 
-  log "Done. Silly Enterprises™ is now partially operational 🛰️"
+  log "Done! Thank your for participating in Silly Enterprises™'s Botnet 🛰️"
   echo "[+] Install completed successfully" >> "$LOG_FILE"
 }
 
